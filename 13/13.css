@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 200px;
+    width: auto;;
+    float: left;
+}
+
+.navigation {
+    width: 200px;
+    position: absolute;
+    left: 0;
+}
+
+.extra {
+    width: 200px;
+    position: absolute;
+    right: 0;
+}
+
+.footer {
+    clear: both;
+}
