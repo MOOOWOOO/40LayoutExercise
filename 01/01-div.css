@@ -3,24 +3,24 @@ body {
     padding: 0;
 }
 
-#wrapper {
+.wrapper {
     margin: 0 25%;
     width: 50%;
     float: left;
 }
 
-#navigation {
+.navigation {
     width: 25%;
     position: absolute;
     left: 0;
 }
 
-#extra {
+.extra {
     width: 25%;
     position: absolute;
     right: 0;
 }
 
-#footer {
+.footer {
     clear: both;
 }
