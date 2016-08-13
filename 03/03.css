@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 50%;
+    float: left;
+}
+
+#navigation {
+    width: 25%;
+    float: left;
+}
+
+#extra {
+    width: 25%;
+    float: left;
+}
+
+#footer {
+    clear: both;
+}
