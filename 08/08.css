@@ -8,19 +8,19 @@ body {
     margin: 0 auto;
 }
 
-.container .wrapper {
+.wrapper {
     width: 400px;
     float: left;
     margin-left: 150px;
 }
 
-.container .navigation {
+.navigation {
     width: 150px;
     float: left;
     position: relative;
 }
 
-.container .extra {
+.extra {
     width: 150px;
     float: left;
     margin-left: -700px;
