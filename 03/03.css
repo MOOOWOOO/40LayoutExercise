@@ -3,21 +3,21 @@ body {
     padding: 0;
 }
 
-#wrapper {
+.wrapper {
     width: 50%;
     float: left;
 }
 
-#navigation {
+.navigation {
     width: 25%;
     float: left;
 }
 
-#extra {
+.extra {
     width: 25%;
     float: left;
 }
 
-#footer {
+.footer {
     clear: both;
 }
