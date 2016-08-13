@@ -1,0 +1,21 @@
+.wrapper {
+    width: auto;
+    margin-right: 400px;
+    float: left;
+}
+
+.navigation {
+    width: 200px;
+    float: left;
+    margin-left: -400px;
+}
+
+.extra {
+    width: 200px;
+    float: left;
+    margin-left: -200px;
+}
+
+.footer {
+    clear: both;
+}
