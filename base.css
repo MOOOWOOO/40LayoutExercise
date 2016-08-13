@@ -1,6 +1,6 @@
-* {
+/** {
     width: 100%;
-}
+}*/
 
 html {
     margin: 0;
@@ -9,31 +9,31 @@ html {
     width: 100%;
 }
 
-#container {
-    background-color: #000000;
-    color: #ffffff;
+.container {
+    background-color:#000000;
+    color:#ffffff;
 }
 
-#header {
-    background-color: #ff0000;
+.header {
+    background-color:#ff0000;
 }
 
-#wrapper {
-    background-color: #00ff00;
+.wrapper {
+    background-color:#00ff00;
 }
 
-#content {
-    background-color: #0000ff;
+.content {
+    background-color:#0000ff;
 }
 
-#navigation {
-    background-color: #ffff00;
+.navigation {
+    background-color:#ffff00;
 }
 
-#extra {
-    background-color: #ff00ff;
+.extra {
+    background-color:#ff00ff;
 }
 
-#footer {
-    background-color: #00ffff;
+.footer {
+    background-color:#00ffff;
 }
