@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    width: 400px;
+    float: left;
+}
+
+.navigation {
+    width: 150px;
+    float: left;
+}
+
+.extra {
+    width: 150px;
+    float: left;
+}
+
+.footer {
+    clear: both;
+}
