@@ -1,0 +1,22 @@
+#wrapper {
+    margin: 0 25%;
+    float: left;
+}
+
+#navigation {
+    width: 25%;
+    position: absolute;
+    float: left;
+    left: 0;
+}
+
+#extra {
+    width: 25%;
+    position: absolute;
+    float: left;
+    right: 0;
+}
+
+#footer {
+    clear: both;
+}
