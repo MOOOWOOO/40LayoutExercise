@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.header {
+    align-self: flex-start;
+    flex: 1 0 100%;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+}
+
+.wrapper {
+    flex: 0.8;
+}
+
+.navigation, .extra {
+    flex: 0 0 25%;
+}
+
+.footer {
+    align-self: flex-end;
+    flex: 1 0 100%;
+}
