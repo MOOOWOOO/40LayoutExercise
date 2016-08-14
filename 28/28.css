@@ -1,0 +1,13 @@
+.navigation {
+    width: 50%;
+    float: right;
+}
+
+.extra {
+    width: 50%;
+    float: left;
+}
+
+.footer {
+    clear: both;
+}
