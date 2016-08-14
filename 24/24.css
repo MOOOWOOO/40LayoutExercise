@@ -1,0 +1,24 @@
+.wrapper {
+    width: 100%;
+    margin-right: -200px;
+    float: right;
+}
+
+.content {
+    margin-right: 200px;
+}
+
+.navigation {
+    width: 200px;
+    float: left;
+}
+
+.extra {
+    width: 200px;
+    float: left;
+    clear: left;
+}
+
+.footer {
+    clear: both;
+}
